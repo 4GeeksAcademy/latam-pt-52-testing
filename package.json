@@ -1,0 +1,16 @@
+{
+  "name": "latam-pt-52-testing",
+  "version": "0.0.1",
+  "description": "Testing an npm package called Jest uwu  🃏",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Latam Pt 52",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.0.0"
+  }
+}
